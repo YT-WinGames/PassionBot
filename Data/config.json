@@ -1,5 +1,5 @@
 {
-    "token": process.env.API_Token
+    "token": API_Token
 }
 
 
