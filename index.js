@@ -15,7 +15,7 @@ const messages = [
     "Did you know? Javascript is the most common coding language, most apps that you use on a day to day basis are coded using Java. Even this bot is made using a java offspring."
 ];
 
-
+const API_Token = process.env.API_Token;
 
 client.on("ready", () => console.log("Bot is online!"))
 
