@@ -1,3 +1,5 @@
 {
-    "token": env: Bot_Token
+    "token": ${{ secrets.Bot_Token }}
 }
+
+
